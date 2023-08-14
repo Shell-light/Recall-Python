@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c70e2b407e133f5b998d5b9d3d1c4bb7c87899ab952f862eb68315f42b8c83ef"
+            "sha256": "5fe9e98687d350f135c6577cccc8d005478692661c1c1c395c63009cf398faf3"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.10"
+            "python_version": "3.8"
         },
         "sources": [
             {
@@ -133,7 +133,7 @@
                 "sha256:4106fb395ef7f8dc0262d6aa1bb03daba818445c381ca8b7d5dfc7a2089b04df",
                 "sha256:f8436a02af02fd63f272dab50f7d623547a38f0e04a4a73e2b02ae1b8b180f27"
             ],
-            "markers": "python_version >= '3.7'",
+            "markers": "python_version >= '3.4'",
             "version": "==2.31.1"
         },
         "imageio-ffmpeg": {
@@ -145,7 +145,7 @@
                 "sha256:dd3ef9835df91570a1cbd9e36dfbc7d228fca42dbb11636e20df75d719de2949",
                 "sha256:fdaa05ad10fe070b7fa8e5f615cb0d28f3b9b791d00af6d2a11e694158d10aa9"
             ],
-            "markers": "python_version >= '3.5'",
+            "markers": "python_version >= '3.4'",
             "version": "==0.4.8"
         },
         "moviepy": {
@@ -186,7 +186,7 @@
                 "sha256:f136bab9c2cfd8da131132c2cf6cc27331dd6fae65f95f69dcd4ae3c3639c810",
                 "sha256:f3a86ed21e4f87050382c7bc96571755193c4c1392490744ac73d660e8f564a9"
             ],
-            "markers": "python_version >= '3.8'",
+            "markers": "python_version != '2.7'",
             "version": "==1.24.4"
         },
         "pillow": {
@@ -248,7 +248,7 @@
                 "sha256:f88a0b92277de8e3ca715a0d79d68dc82807457dae3ab8699c758f07c20b3c51",
                 "sha256:faaf07ea35355b01a35cb442dd950d8f1bb5b040a7787791a535de13db15ed90"
             ],
-            "markers": "python_version >= '3.8'",
+            "index": "pypi",
             "version": "==10.0.0"
         },
         "proglog": {
